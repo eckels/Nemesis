@@ -1,0 +1,21 @@
+Dark Red - #D80000;
+Black - black;
+
+Hydra Red - #5b0808;
+Hydra Blue - #0b2d41;
+
+Color Scheme for site
+
+background - #2a2a2a;
+darker black #151515;
+titles - white;
+descriptions - #adadad;
+links - #D80000;
+
+Other
+
+Darkesest: #07080b
+darkest: #0F1117
+medium: #131820
+lighter: #11151D
+lightest: #1a212c

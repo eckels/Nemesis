@@ -1,0 +1,6 @@
+domain: http://teamnemesis.byethost4.com
+password: loafboytoph
+email: stormymace3@gmail.com
+
+cpanel: cpanel.byethost4.com
+username: b4_18631667
