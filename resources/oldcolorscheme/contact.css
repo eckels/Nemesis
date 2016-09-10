@@ -1,0 +1,12 @@
+.contact-div {
+  width: 600px;
+  background-color: red;
+  margin: 30px auto 30px auto;
+  padding: 20px;
+}
+
+.contact-div h2 {
+  color: white;
+  text-align: center;
+  margin: 0;
+}
