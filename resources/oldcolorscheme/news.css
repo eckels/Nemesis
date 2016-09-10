@@ -46,8 +46,8 @@
 }
 
 .article {
-  border-top: solid #03194D 3px;
-  background-color: #06132F;
+  border-top: solid #455875 3px;
+  background-color: #1a212c; /* #1a212c or #11151D */
   height: 200px;
   width: 98%;
   padding-right: 2%;

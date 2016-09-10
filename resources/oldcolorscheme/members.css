@@ -5,7 +5,6 @@
   margin-left: 30px;
   margin-right: auto;
   margin-bottom: 50px;
-  margin-top: 60px;
 }
 
 .profile-wrap {
@@ -14,10 +13,10 @@
 }
 /* 19 and 30*/
 .profile {
-  background-color: #03194D;
+  background-color: #1a212c;
   width: 190px;
   height: 300px;
-  border: solid #030B1C 5px;
+  border: solid #07080b 5px;
   margin: 20px 0px 20px 0px;
 }
 
