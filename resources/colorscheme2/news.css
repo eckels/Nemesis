@@ -46,8 +46,8 @@
 }
 
 .article {
-  border-top: solid white 3px;
-  background-color: #090C33;
+  border-top: solid #03194D 3px;
+  background-color: #06132F;
   height: 200px;
   width: 98%;
   padding-right: 2%;
@@ -76,11 +76,11 @@
 }
 
 .article h3:hover {
-  color: rgba(255, 255, 255, .5);
+  color: #a30011;
 }
 
 .article-date {
-  color: #44487D;
+  color: #a30011;
   margin: 0;
 }
 
@@ -94,7 +94,7 @@
 
 .read-more {
   text-decoration: none;
-  color: white;
+  color: #a30011;
   transition: .2s;
   float: right;
   margin-top: 5px;
@@ -109,7 +109,7 @@
 @media (max-width: 800px) {
 
 .news, .news-full {
-  margin-top: 5;
+  margin-top: 5
 }
 
   .article {
