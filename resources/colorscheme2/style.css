@@ -29,11 +29,11 @@ body, html {
 /* Desktop Navigation */
 
 nav {
-  background-color: #181C4C;
+  background-color: #020C24;
   height: 100px;
   position: relative;
   width: 100%;
-  border-bottom: solid #090C33 2px;
+  border-bottom: solid #06132F 2px;
   z-index: 5;
 }
 
@@ -75,7 +75,7 @@ nav li {
 }
 
 nav li.active {
-  background-color: #090C33;
+  background-color: #06132F;
 }
 
 nav a {
@@ -93,7 +93,7 @@ nav ul a:hover {
 
 .content {
   max-width: 1600px;
-  background-color: #181C4C;
+  background-color: #020C24;
   margin: auto;
   margin-top: 0;
 }
@@ -212,6 +212,7 @@ header img {
 .sponsors {
   padding: 30px;
   margin: 0;
+  background-color: #030B1C;
 }
 
 .sponsor-image {
@@ -241,7 +242,7 @@ header img {
 /* Footer */
 
 footer {
-  background-color: #03041B;
+  background-color: #020C24;
   padding: 25px;
 }
 
@@ -446,7 +447,7 @@ footer {
 @media (max-width: 1000px) {
 
   nav {
-    background-color: #181C4C;
+    background-color: #020C24;
     margin-top: -60px;
     height: 60px;
     position: fixed;
@@ -454,7 +455,7 @@ footer {
     text-align: center;
     z-index: 5;
     width: 100%;
-    border-bottom: solid #090C33 2px;
+    border-bottom: solid #06132F 2px;
   }
 
   .logo-div {
@@ -553,14 +554,14 @@ footer {
   nav li {
     display: block;
     list-style: none;
-    background-color: #181C4C;
+    background-color: #020C24;
     margin: 0;
     padding: 20px 20px 20px 20px;
-    border-top: solid #090C33 1px;
+    border-top: solid #06132F 1px;
   }
 
   nav li.active {
-    background-color: #181C4C;
+    background-color: #020C24;
   }
 
   nav a {

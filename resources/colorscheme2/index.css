@@ -16,7 +16,7 @@
   text-transform: uppercase;
   font-weight: 800;
   font-size: 250%;
-  background-color: #03041B;
+  background-color: #030B1C;
   display: inline;
   padding: 7px 10px 7px 10px;
   position: relative;
@@ -26,7 +26,7 @@
 }
 
 .index-header h2:hover {
-  color: rgba(255, 255, 255, .5);
+  color: #a30011;
 }
 
 .news h2 {
@@ -62,8 +62,8 @@
   width: 24%;
   margin-right: 2%;
   margin-top: 2%;
-  border-top: solid white 3px;
-  background-color: #090C33;
+  border-top: solid #03194D 3px;
+  background-color: #06132F;
   height: 650px;
   float: left;
 }
@@ -87,7 +87,7 @@
 }
 
 .twitter h4:hover {
-  color: rgba(255, 255, 255, .5);
+  color: #a30011;
 }
 
 .twitter a {
